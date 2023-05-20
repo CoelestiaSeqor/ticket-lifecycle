@@ -27,49 +27,50 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Working the Issue
 - Resolution
 
-Certainly! Here's the lifecycle of a ticket from intake to resolution, categorized into the following headings:
-
-1. Intake:
-   - Ticket Creation: User submits a ticket through the customer portal, email, or another designated channel.
-   - Ticket Identification: The ticket is assigned a unique identifier and enters the system for processing.
-
-2. Assignment and Communication:
-   - Ticket Assignment: The ticket is assigned to an appropriate department or agent based on predefined rules or triage.
-   - Agent Communication: The assigned agent reviews the ticket details, communicates with the user if necessary, and gathers additional information or clarification.
-
-3. Working the Issue:
-   - Investigation and Troubleshooting: The agent investigates the issue, performs necessary troubleshooting steps, and gathers relevant information.
-   - Collaboration and Escalation: If required, the agent collaborates with other team members or escalates the ticket to a higher level of support.
-
-4. Resolution:
-   - Solution Implementation: The agent identifies the cause of the issue and works on resolving it.
-   - User Communication: The agent provides a solution, instructions, or recommendations to the user, keeping them informed of the progress.
-   - Ticket Closure: Once the issue is resolved, the agent updates the ticket status, marks it as closed or resolved, and concludes the support process for that specific issue.
-
-It's important to note that the ticket lifecycle may vary slightly depending on the support system or organization's processes. However, this breakdown provides a general overview of the key stages involved in moving a ticket from intake to resolution.
-
 <h2>Lifecycle Stages</h2>
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+
+1. Intake:
+   - Log in to osTicket using your credentials.
+   - Click on the "New Ticket" button to create a new ticket.
+   - Fill in the required fields such as ticket title, description, priority, and any relevant tags.
+   - Assign the ticket to the appropriate team based on the severity and nature of the issue.
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+
+2. Assignment and Communication:
+   - Once the ticket is created, it will be automatically assigned to the designated team.
+   - Team members will be notified about the new ticket and can start working on it.
+   - If further information or clarification is required, team members can communicate with the ticket creator or any other involved parties through the ticket comments section.
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+3. Working the Issue:
+   - Team members will analyze the ticket details and start investigating the reported problem.
+   - They will follow any documented troubleshooting procedures or guidelines.
+   - If necessary, additional information may be requested from the ticket creator or other relevant sources.
+   - The team will work towards resolving the issue within the specified timeframe based on the ticket priority.
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<br />
+<p>
+
+4. Resolution:
+   - Once the problem is identified and resolved, team members will update the ticket with the solution.
+   - The ticket creator will be notified of the resolution and may be requested to confirm if the issue is resolved from their end.
+   - If the ticket creator confirms the resolution, the ticket can be closed.
+   - In case the issue persists or further action is required, the ticket can be escalated to higher-level support or relevant departments.
+
+
+It's important to note that the ticket lifecycle may vary slightly depending on the support system or organization's processes. However, this breakdown provides a general overview of the key stages involved in moving a ticket from intake to resolution.
